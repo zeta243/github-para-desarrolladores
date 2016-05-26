@@ -1,2 +1,2 @@
-alert("Editando el archivo 2");
+alert("Editando el archivo 2 cambio");
 var prueba;
